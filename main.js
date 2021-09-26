@@ -67,7 +67,7 @@ let track_list = [
     name: "Calm Waters",
     artist: "Purrple Cat",
     image: "images/Ambient.jpg",
-    path: "musics/calm-water.mp3",
+    path: "musics/calm-waters.mp3",
   },
   {
     name: "Morning Routine",
